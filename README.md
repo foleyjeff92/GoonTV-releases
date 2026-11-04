@@ -8,8 +8,10 @@ a provider; GoonTV doesn't come with any channels.
 
 ## Download
 
-Get the latest `GoonTV.apk` from the **Releases** section of this page (on the right, or under
-the repo's **Releases** link).
+On a TV, the quickest way is the Downloader code **4380085**. It always gets the latest version.
+
+You can also get the latest `GoonTV.apk` from the **Releases** section of this page (on the
+right, or under the repo's **Releases** link).
 
 ## Install on a Google TV or Android TV
 
@@ -18,8 +20,7 @@ the repo's **Releases** link).
    build** and press OK seven times.
 3. Allow Downloader to install apps: go to **Settings > Apps > Security & restrictions >
    Unknown sources** and switch on **Downloader**. (The menu names vary a little between TVs.)
-4. Open Downloader, type the link to the APK from the Releases page and press Go, then choose
-   **Install**.
+4. Open Downloader, type **4380085** in the box and press Go, then choose **Install**.
 5. Open GoonTV and sign in with the server address, username and password your provider gave you.
 
 To update, install the new APK the same way. It installs over the old version and keeps your
