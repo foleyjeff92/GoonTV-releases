@@ -13,7 +13,7 @@ On a TV, the quickest way is the Downloader code **4380085**. It always gets the
 You can also get the latest `GoonTV.apk` from the **Releases** section of this page (on the
 right, or under the repo's **Releases** link).
 
-## What's new in 1.35-test
+## What's new in 1.35
 
 - Catch-up now recovers by itself when the picture freezes, carrying on from the same point
 - Catch-up remembers where you got to, so reopening a programme carries on from there (Left goes back)
