@@ -15,6 +15,9 @@ right, or under the repo's **Releases** link).
 
 ## What's new in 1.36
 
+- Live TV: a channel that gets stuck loading after it was playing now reconnects by itself
+- 4K (UHD) channels and films on devices that can't play 4K (like a Chromecast HD) now show a clear message instead of loading for ever, in full screen, multi-screen and the Live TV preview
+- The Live TV preview's messages are now white text on black, so they're easy to read
 
 Notes for every version are on the **Releases** page.
 
