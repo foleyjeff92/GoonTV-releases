@@ -13,11 +13,9 @@ On a TV, the quickest way is the Downloader code **4380085**. It always gets the
 You can also get the latest `GoonTV.apk` from the **Releases** section of this page (on the
 right, or under the repo's **Releases** link).
 
-## What's new in 1.36
+## What's new in 1.37
 
-- Live TV: a channel that gets stuck loading after it was playing now reconnects by itself
-- 4K (UHD) channels and films on devices that can't play 4K (like a Chromecast HD) now show a clear message instead of loading for ever, in full screen, multi-screen and the Live TV preview
-- The Live TV preview's messages are now white text on black, so they're easy to read
+- Live TV: when the provider ends a channel's stream, it now reconnects by itself instead of leaving a black screen
 
 Notes for every version are on the **Releases** page.
 
